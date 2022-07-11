@@ -582,6 +582,4 @@ function Savewiner(){
     winer=lotterie[numwin];
 }*/
 
-Client.login(process.env.TOKEN); // token.token //"OTgyNzgwMjAwNjgzMjAwNTcz.G0gA4Q.cVP4So-LJBUSHg1NtvUBv_Q4l48GgvSqlaLcKs"
-
-
+Client.login(process.env.TOKEN); // token.token
